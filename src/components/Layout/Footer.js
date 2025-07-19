@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <div className="footer pt-4 d-flex flex-column align-items-center justify-content-center bg-dark text-light p-4">
       
-      <h6>All Right Reserved &copy; Molecule Housing Market - 2023</h6>
+      <h6>Made by Er. Mukesh Soni | All Right Reserved &copy; Molecule Housing Market - 2023</h6>
       <div className="d-flex flex-row p-2">
         <p className="me-4" title="Github">
           <Link to="/">
