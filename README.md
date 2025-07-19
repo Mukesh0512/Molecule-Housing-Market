@@ -2,6 +2,9 @@
 
 A full-stack real estate web application for managing property listings, user interactions, and seamless transactions — built with **ReactJS**, **Firebase**, and **Bootstrap**.
 
+🚀 Initial live deploy via Firebase + GitHub Actions
+
+
 ## 🚀 Features
 
 - 📋 Property listing portal with filters and search
